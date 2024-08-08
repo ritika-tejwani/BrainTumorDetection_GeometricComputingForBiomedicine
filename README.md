@@ -1,1 +1,1 @@
-# BrainTumorDetection_GeometricComputingForBiomedicine
+# Brain Tumor Detection - Geometric Computing for Biomedicine
