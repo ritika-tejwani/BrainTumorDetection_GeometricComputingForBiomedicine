@@ -1,1 +1,2 @@
-# Brain Tumor Detection - Geometric Computing for Biomedicine
+# Brain Tumor Detection
+Final Project - CSE 554 Geometric Computing for Biomedicine
